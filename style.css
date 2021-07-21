@@ -245,7 +245,7 @@ input {
 .deals-container h1 {
   font-size: 1.4rem;
   font-weight: 500;
-  color: var(--primary2);
+  color: var(--primary1);
   text-align: center;
   margin: 0 0.2rem;
 }
