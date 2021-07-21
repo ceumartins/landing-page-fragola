@@ -90,6 +90,15 @@ p {
   text-transform: uppercase;
 }
 
+.coluna{
+  float: left;
+  width: 33.33%;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .subscribe-container {
   display: flex;
   width: 100%;
