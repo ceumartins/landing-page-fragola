@@ -14,7 +14,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 html {
@@ -155,8 +155,6 @@ input {
   justify-content: center;
   margin: 1rem auto;
 }
-
-
 
 .subscribe-section {
   display: flex;
